@@ -1,6 +1,9 @@
-function Hello(name) {
+function hello(name) {
   return `Hello ${name}`
 }
- function sayHi() {
-   
- }
+
+
+module.exports = hello
+function sayHi() {
+
+}
